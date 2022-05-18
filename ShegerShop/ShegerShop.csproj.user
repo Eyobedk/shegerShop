@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AdminPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\ReportPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\SearchtemForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\ManageItemForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\ViewItemForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OwnersPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Owner\ManageAdminsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Owner\ViewProductsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
